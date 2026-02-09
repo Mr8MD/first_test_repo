@@ -15,7 +15,7 @@ window.config(background="#3c3a56")
 button.config(command=click)
 button.config(font=("Arial", 35, 'bold'))
 button.config(bg='#689a9d')
-button.config(fg='#ddffef')
+button.config(fg='#ffffff')
 button.pack()
 
 
